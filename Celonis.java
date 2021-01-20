@@ -3,7 +3,7 @@ public class Celonis {
 		//The first method
 	}
 	
-	public void method3() {
-		//The third method
+	public void secondMethod() {
+		//The second method
 	}
 }

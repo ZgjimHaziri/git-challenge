@@ -6,4 +6,8 @@ public class Celonis {
 	public void method3() {
 		//The third method
 	}
+	
+	public void ThirdMethod() {
+		//The third method
+	}
 }
